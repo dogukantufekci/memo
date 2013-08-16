@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath memo memo.wsgi
